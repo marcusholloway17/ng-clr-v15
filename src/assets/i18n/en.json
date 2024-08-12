@@ -1,0 +1,67 @@
+{
+  "app": {
+    "strings": {
+      "request-error": "Request completed with some errors, please check the console for more information",
+      "request-ok": "Request completed successfully!",
+      "unable-to-delete": "You cannot perform this action on this resource",
+      "no": "No",
+      "yes": "Yes"
+    },
+    "actions": {
+      "display": "Display",
+      "refresh": "Refresh",
+      "create": "New",
+      "update": "Edit",
+      "_update": "Update",
+      "delete": "Delete",
+      "back": "Go Back",
+      "next": "Next",
+      "previous": "Previous",
+      "submit": "Submit",
+      "cancel": "Cancel",
+      "close": "Close",
+      "save": "Save",
+      "add": "Add",
+      "download": "Download",
+      "deactivate": "Deactivate",
+      "activate": "Activate",
+      "logout": "Logout",
+      "detail": "Detail",
+      "handle": "Manage",
+      "my_account": "My account"
+    },
+    "prompt": {
+      "logout": "You are about to logout from the application, please confirm to continue...",
+      "delete": "Please confirm to complete the action",
+      "create": "Please confirm registration to continue"
+    },
+    "datagrid": {
+      "placeholder": "We couldn't find any data!",
+      "loading": "Loading data, please wait ...",
+      "error": "We couldn't load data due to request error ..."
+    },
+    "links": {},
+    "modules": {}
+  },
+  "login": {
+    "username": {
+      "label": "Username",
+      "placeholder": "..."
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "..."
+    },
+    "remember": {
+      "label": "Remember me"
+    },
+    "loginBtnText": "Login",
+    "authenticationFailed": "Authentication failed, Please check your credentials and retry.",
+    "authorizationError": "Authorization Error, You do not have access to the application.",
+    "authenticating": "Authenticating, please wait...",
+    "loginMaintext": "Welcome on",
+    "loginSubText": "Access your workspace with your credentials",
+    "successful": "You are successfully logged in. Redirecting ...",
+    "registerBtnText": "Register"
+  }
+}

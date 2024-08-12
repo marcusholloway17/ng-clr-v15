@@ -1,0 +1,12 @@
+[submodule "src/app/modules/login"]
+	path = src/app/modules/login
+	url = git@github.com:azandrew-sidoine/drewlabs-clarity-login-component.git
+[submodule "src/app/modules/themes"]
+	path = src/app/modules/themes
+	url = git@github.com:liksoft/liksoft-themes.git
+[submodule "src/app/modules/components"]
+	path = src/app/modules/components
+	url = git@github.com:marcusholloway17/ng-clr-components.git
+[submodule "src/app/modules/helpers"]
+	path = src/app/modules/helpers
+	url = git@github.com:marcusholloway17/ng-clr-helpers.git

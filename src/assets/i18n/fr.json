@@ -1,0 +1,67 @@
+{
+  "app": {
+    "strings": {
+      "request-error": "Une erreur est survenue lors de l'exécution de la requête. Veuillez consulter les logs pour en savoir plus.",
+      "request-ok": "La requête est effectuée avec succès!",
+      "unable-to-delete": "Vous ne pouvez effectuer cette action sur cette ressource",
+      "no": "Non",
+      "yes": "Oui"
+    },
+    "actions": {
+      "display": "Afficher",
+      "refresh": "Actualiser",
+      "create": "Nouveau",
+      "update": "Modifier",
+      "_update": "Mettre à jour",
+      "delete": "Supprimer",
+      "back": "Retour",
+      "next": "Suivant",
+      "previous": "Précédent",
+      "submit": "Soumettre",
+      "cancel": "Annuler",
+      "close": "Fermer",
+      "save": "Enregistrer",
+      "add": "Ajouter",
+      "download": "Télécharger",
+      "deactivate": "Désactiver",
+      "activate": "Activer",
+      "logout": "Se Déconnecter",
+      "detail": "Détails",
+      "handle": "Gérer",
+      "my_account": "Mon compte"
+    },
+    "prompt": {
+      "logout": "Vous êtes sur le point de vous déconnecter, veuillez confirmer pour poursuivre...",
+      "delete": "Veuillez confirmer la suppression pour poursuivre",
+      "create": "Veuillez confirmer l'enregistrement pour poursuivre"
+    },
+    "datagrid": {
+      "placeholder": "Nous n'avons touver aucune données!",
+      "loading": "Chargement en cours, veuillez patienter ...",
+      "error": "Erreur de chargement des données ..."
+    },
+    "links": {},
+    "modules": {}
+  },
+  "login": {
+    "username": {
+      "label": "Nom Utilisateur",
+      "placeholder": "..."
+    },
+    "password": {
+      "label": "Mot de Passe",
+      "placeholder": "..."
+    },
+    "remember": {
+      "label": "Se souvenir de moi"
+    },
+    "loginBtnText": "Se Connecter",
+    "authenticationFailed": "L'authentification a échoué, veuillez vérifier vos crédentiels et réessayer.",
+    "authorizationError": "Erreur d'autorisation, Vous avez pas accès a cet application",
+    "authenticating": "Authentification, veuillez patienter...",
+    "loginMaintext": "Bienvenue sur",
+    "loginSubText": "Accédez à votre espace de travail avec vos identifiants",
+    "successful": "Vous êtes connecté avec succès. Redirection...",
+    "registerBtnText": "Créer un Compte"
+  }
+}
